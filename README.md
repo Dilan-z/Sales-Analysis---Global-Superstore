@@ -33,9 +33,14 @@ This Power BI dashboard provides clear insights into sales trends, profit driver
 💡 Learning Outcomes
 
 Data Cleaning and Transformation
+
 Dashboard Creation in Power BI
+
 Understanding Business KPIs
+
 End-to-End Data Analytics Workflow
+
 Power BI (Data Visualization & Dashboard)
+
 Excel / CSV (Data Source)
 
