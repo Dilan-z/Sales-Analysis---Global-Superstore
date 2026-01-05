@@ -30,3 +30,12 @@ The dashboard highlights several important KPIs to measure business success:
 
 This Power BI dashboard provides clear insights into sales trends, profit drivers, and problem areas. It helps stakeholders identify profitable products, optimize discounts, and improve regional and customer-focused strategies. The project demonstrates strong data visualization, analytical thinking, and business intelligence skills.
 
+💡 Learning Outcomes
+
+Data Cleaning and Transformation
+Dashboard Creation in Power BI
+Understanding Business KPIs
+End-to-End Data Analytics Workflow
+Power BI (Data Visualization & Dashboard)
+Excel / CSV (Data Source)
+
